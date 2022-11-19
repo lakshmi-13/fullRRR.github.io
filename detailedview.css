@@ -1,0 +1,33 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148910071.jpg?w=740&t=st=1668661954~exp=1668662554~hmac=09a9d1dc7ff5941263600e700a3b50d5fcae08be57039c6306bf9783511082ca");
+    background-size:contain;
+    height: 210vh;
+}
+.headfirst{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 25px;
+}
+.bgcardcarousel{
+    background-color: white;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius: 10px;
+    margin: 25px;
+}
+.cardcon{
+    padding: 20px;
+}
+.headsecond{
+    background-color: white;
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.paraline{
+    color: #6c6b70;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
